@@ -1,0 +1,125 @@
+@media (max-width:1150px ){
+    img{
+        height: 62px;
+        width: 136px;
+        padding: -1px 100px;
+        margin-left: 150px;
+        display: none;
+
+    }
+    nav ul{
+        display: none;
+    }
+    
+     
+    .mbtn1{ 
+        display: block;
+    }
+    .dropdown_menu ul li a{
+        display: block;
+    }
+
+    .dropdown_menu ul:hover{
+        display: block;
+        background-color: rgb(14, 14, 103);
+    }
+
+  .dropdown_menu .sbtn{
+    display: block;
+  }
+  .lbtn{
+    display: block;
+}
+ 
+.cap{
+    position: relative;
+   bottom: 5px;
+   margin-top: 41%;
+  
+   background-color:#02387b;
+   padding: 30px 0 20px 0;
+   
+   
+}
+
+.shopnow_img img{
+    display: block;
+    height: 290px;
+    width: 286px;
+    margin-left: 50px;
+}
+.pay_img img{
+    display: block;
+    height: 272px;
+    width: 260px;
+    margin-left: 17px;
+
+}
+.online_img img{
+    display: block;
+    height: 300px;
+    width: 298px;
+    margin-left: 50px;
+   
+}
+.h15{
+    font-size: 31px;
+}
+.flagimg img{
+    height: 17px;
+    width: 26px;
+    padding: -1px 100px;
+    margin-left: 94%;
+    display: block;
+    
+}
+
+.sf{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+}
+.strong{
+    padding: 10px 80px;
+    display: inline-flex;
+    width: 60%;
+    float :right;
+    margin-left: 25%;
+}
+.strong ul{
+    padding: 0px 5px;
+}
+.flagimg{
+    width: 45%;
+    /* float :right; */
+    padding: 10px 80px;
+}
+.flagimg img{
+    height: 17px;
+    width: 26px;
+    padding: -1px 100px;
+    margin-left: 50%;
+    
+    
+}
+.about{
+    padding: 10px 410px;
+    display: inline-flex;
+    width: 100%;
+}
+.about ul{
+    padding: 0px 8px;
+}
+.copy{
+    padding: 10px 0px;
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+     
+    
+}
+.copy ul{
+    padding: 0px 5px;
+}
+       
+}
